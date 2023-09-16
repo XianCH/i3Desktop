@@ -1,0 +1,45 @@
+INFO 9/15/2023, 5:14:46 PM  launch with argv [/usr/share/typora/Typora]
+INFO 9/15/2023, 5:14:46 PM  launchFromDiffVersion, pre version is undefined
+INFO 9/15/2023, 5:14:46 PM  start LM in devVersion=false
+INFO 9/15/2023, 5:14:46 PM  [Raven] instanceKey = 4e2284c9-5994-4667-b6ee-cb8faf52216d
+INFO 9/15/2023, 5:14:46 PM  [watch L]
+INFO 9/15/2023, 5:14:46 PM  ls put SLicense
+INFO 9/15/2023, 5:14:46 PM  [L] Read from incorrupted InstallDate
+INFO 9/15/2023, 5:14:46 PM  writeInstallDate fromBTime=true
+INFO 9/15/2023, 5:14:46 PM  overwriteThemeFolder
+INFO 9/15/2023, 5:14:46 PM  ------------------start------------------
+INFO 9/15/2023, 5:14:46 PM  typora version: 1.7.4
+INFO 9/15/2023, 5:14:46 PM  undefined
+INFO 9/15/2023, 5:14:46 PM  ls put IDate
+INFO 9/15/2023, 5:14:46 PM  [L] installDate is 9/15/2023, trail remains: 15 days
+INFO 9/15/2023, 5:14:46 PM  [watch L] hasL: false
+INFO 9/15/2023, 5:14:46 PM  [focus] 1
+INFO 9/15/2023, 5:14:46 PM  synced recovery
+INFO 9/15/2023, 5:14:46 PM  [Raven] userId = 1c6a216a-f886-44e4-8639-a483f7740f94
+user-dict.json not found
+INFO 9/15/2023, 5:14:47 PM  handle document.loadData
+INFO 9/15/2023, 5:14:47 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 9/15/2023, 5:14:47 PM  [RenderProcess 1][Log] reset NodeMap
+INFO 9/15/2023, 5:14:47 PM  synced recovery
+INFO 9/15/2023, 5:14:47 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 9/15/2023, 5:14:47 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 9/15/2023, 5:14:58 PM  synced recovery
+INFO 9/15/2023, 5:15:01 PM  synced recovery
+INFO 9/15/2023, 5:15:02 PM  [blur] 1
+INFO 9/15/2023, 5:15:02 PM  [win] blur
+INFO 9/15/2023, 5:15:02 PM  synced recovery
+INFO 9/15/2023, 5:15:03 PM  [focus] 1
+INFO 9/15/2023, 5:15:06 PM  updateTheme
+INFO 9/15/2023, 5:15:14 PM  synced recovery
+INFO 9/15/2023, 5:15:16 PM  synced recovery
+INFO 9/15/2023, 5:15:20 PM  synced recovery
+INFO 9/15/2023, 5:15:21 PM  synced recovery
+INFO 9/15/2023, 5:15:25 PM  synced recovery
+INFO 9/15/2023, 5:15:28 PM  synced recovery
+INFO 9/15/2023, 5:15:30 PM  synced recovery
+INFO 9/15/2023, 5:15:33 PM  synced recovery
+INFO 9/15/2023, 5:15:39 PM  [blur] 1
+INFO 9/15/2023, 5:15:39 PM  [win] blur
+INFO 9/15/2023, 5:56:37 PM  synced recovery
+INFO 9/15/2023, 5:56:37 PM  ----------------before-quit-----------------
+ERROR 9/15/2023, 5:56:37 PM  render process is killed? true

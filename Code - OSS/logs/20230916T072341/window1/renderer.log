@@ -1,0 +1,74 @@
+2023-09-15 23:23:45.260 [info] [perf] Render performance baseline is 25ms
+2023-09-15 23:24:53.840 [info] [perf] Render performance baseline is 25ms
+2023-09-15 23:27:10.512 [error] semantictokens are disabled: Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:27:14.519 [error] semantictokens are disabled: Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:27:37.675 [error] semantictokens are disabled: Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:27:56.367 [error] semantictokens are disabled: Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:27:59.166 [error] semantictokens are disabled: Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:01.524 [error] semantictokens are disabled: Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:11.461 [error] semantictokens are disabled: Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:12.610 [error] semantictokens are disabled: Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:19.010 [error] semantictokens are disabled: Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:25.416 [error] semantictokens are disabled: Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:47.052 [error] semantictokens are disabled: Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:52.936 [error] semantictokens are disabled: Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)

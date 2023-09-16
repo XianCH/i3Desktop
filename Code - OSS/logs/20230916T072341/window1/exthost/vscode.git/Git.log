@@ -1,0 +1,95 @@
+2023-09-15 23:23:42.515 [info] Log level: Info
+2023-09-15 23:23:42.515 [info] Validating found git in: "git"
+2023-09-15 23:23:42.515 [info] Using git "2.42.0" from "git"
+2023-09-15 23:24:53.139 [info] Log level: Info
+2023-09-15 23:24:53.139 [info] Validating found git in: "git"
+2023-09-15 23:24:53.139 [info] Using git "2.42.0" from "git"
+2023-09-15 23:24:53.139 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-15 23:24:53.139 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-15 23:24:53.144 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-15 23:24:53.144 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-15 23:24:58.947 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-15 23:24:58.953 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-09-15 23:24:58.961 [info] Open repository: /home/x14n/code/goproj/github.com/x14n/goStu
+2023-09-15 23:24:58.969 [info] > git config --get commit.template [4ms]
+2023-09-15 23:24:58.971 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-09-15 23:24:58.985 [info] > git status -z -uall [11ms]
+2023-09-15 23:24:58.996 [info] > git config --get commit.template [4ms]
+2023-09-15 23:24:58.996 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-09-15 23:24:59.023 [info] > git status -z -uall [24ms]
+2023-09-15 23:24:59.284 [info] > git show --textconv :freamworkStu/gin/howToStart.go [4ms]
+2023-09-15 23:24:59.285 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/freamworkStu/gin/howToStart.go [1ms]
+2023-09-15 23:24:59.288 [info] > git cat-file -s 919e8cc0dd2c09620b6236d6f8b45bef18667eae [0ms]
+2023-09-15 23:24:59.588 [info] > git check-ignore -v -z --stdin [2ms]
+2023-09-15 23:25:02.984 [info] > git rev-parse --show-toplevel [5ms]
+2023-09-15 23:25:02.984 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-15 23:25:03.368 [info] > git rev-parse --show-toplevel [0ms]
+2023-09-15 23:25:03.368 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-15 23:25:04.445 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-15 23:25:04.445 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-15 23:25:09.960 [info] > git check-ignore -v -z --stdin [0ms]
+2023-09-15 23:25:11.397 [info] > git check-ignore -v -z --stdin [1ms]
+2023-09-15 23:25:12.035 [info] > git show --textconv :databasestu/queue/queue.go [8ms]
+2023-09-15 23:25:12.037 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue/queue.go [2ms]
+2023-09-15 23:25:12.044 [info] > git cat-file -s 56b450b10d6b6e7e29bd3251f777b853e161a747 [2ms]
+2023-09-15 23:25:40.027 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-15 23:25:40.027 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-15 23:26:51.922 [info] > git config --get commit.template [8ms]
+2023-09-15 23:26:51.923 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-09-15 23:26:51.932 [info] > git status -z -uall [3ms]
+2023-09-15 23:26:52.015 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue/queue.go [3ms]
+2023-09-15 23:26:52.025 [info] > git cat-file -s 56b450b10d6b6e7e29bd3251f777b853e161a747 [2ms]
+2023-09-15 23:26:52.036 [info] > git show --textconv :databasestu/queue/queue.go [3ms]
+2023-09-15 23:27:11.767 [info] > git config --get commit.template [1ms]
+2023-09-15 23:27:11.774 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-09-15 23:27:11.783 [info] > git status -z -uall [2ms]
+2023-09-15 23:27:11.865 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue/queue.go [1ms]
+2023-09-15 23:27:11.872 [info] > git cat-file -s 56b450b10d6b6e7e29bd3251f777b853e161a747 [2ms]
+2023-09-15 23:27:11.881 [info] > git show --textconv :databasestu/queue/queue.go [1ms]
+2023-09-15 23:28:11.132 [info] > git check-ignore -v -z --stdin [1ms]
+2023-09-15 23:28:11.656 [info] > git show --textconv :databasestu/tree/tree.go [7ms]
+2023-09-15 23:28:11.658 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/tree/tree.go [2ms]
+2023-09-15 23:28:11.666 [info] > git cat-file -s 9b98ce4f621c2b1e36a5e72d3e93d9450a5649aa [1ms]
+2023-09-15 23:28:12.805 [info] > git show --textconv :databasestu/tree/humfumantree.go [7ms]
+2023-09-15 23:28:12.806 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/tree/humfumantree.go [2ms]
+2023-09-15 23:28:12.813 [info] > git cat-file -s bb3188d235c60d994c00b6a2031c2883689410ff [2ms]
+2023-09-15 23:28:16.564 [info] > git config --get commit.template [1ms]
+2023-09-15 23:28:16.570 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-09-15 23:28:16.577 [info] > git status -z -uall [1ms]
+2023-09-15 23:28:16.683 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue/queue.go [8ms]
+2023-09-15 23:28:16.688 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/tree/humfumantree.go [5ms]
+2023-09-15 23:28:16.693 [info] > git cat-file -s bb3188d235c60d994c00b6a2031c2883689410ff [0ms]
+2023-09-15 23:28:16.693 [info] > git cat-file -s 56b450b10d6b6e7e29bd3251f777b853e161a747 [5ms]
+2023-09-15 23:28:16.702 [info] > git show --textconv :databasestu/tree/humfumantree.go [5ms]
+2023-09-15 23:28:16.703 [info] > git show --textconv :databasestu/queue/queue.go [1ms]
+2023-09-15 23:28:18.066 [info] > git check-ignore -v -z --stdin [1ms]
+2023-09-15 23:28:19.216 [info] > git show --textconv :golibray/http/getdemo.go [7ms]
+2023-09-15 23:28:19.218 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/golibray/http/getdemo.go [2ms]
+2023-09-15 23:28:19.226 [info] > git cat-file -s adb23dd65c9ca3344d8ce7749f25357eee4aa8b5 [2ms]
+2023-09-15 23:28:24.985 [info] > git check-ignore -v -z --stdin [1ms]
+2023-09-15 23:28:25.612 [info] > git show --textconv :databasestu/stack/stack.go [7ms]
+2023-09-15 23:28:25.613 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/stack/stack.go [2ms]
+2023-09-15 23:28:25.620 [info] > git cat-file -s f3f5d792d6ffbcb2dc6a7d926084b716d820ac57 [2ms]
+2023-09-15 23:28:28.006 [info] > git config --get commit.template [7ms]
+2023-09-15 23:28:28.007 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-09-15 23:28:28.015 [info] > git status -z -uall [3ms]
+2023-09-15 23:28:28.113 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/tree/humfumantree.go [6ms]
+2023-09-15 23:28:28.117 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue/queue.go [16ms]
+2023-09-15 23:28:28.123 [info] > git cat-file -s bb3188d235c60d994c00b6a2031c2883689410ff [6ms]
+2023-09-15 23:28:28.124 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/stack/stack.go [12ms]
+2023-09-15 23:28:28.130 [info] > git cat-file -s 56b450b10d6b6e7e29bd3251f777b853e161a747 [8ms]
+2023-09-15 23:28:28.137 [info] > git cat-file -s f3f5d792d6ffbcb2dc6a7d926084b716d820ac57 [8ms]
+2023-09-15 23:28:28.141 [info] > git show --textconv :databasestu/tree/humfumantree.go [5ms]
+2023-09-15 23:28:28.145 [info] > git show --textconv :databasestu/queue/queue.go [4ms]
+2023-09-15 23:28:28.146 [info] > git show --textconv :databasestu/stack/stack.go [1ms]
+2023-09-15 23:28:49.943 [info] > git check-ignore -v -z --stdin [2ms]
+2023-09-15 23:28:51.061 [info] > git check-ignore -v -z --stdin [1ms]
+2023-09-15 23:28:53.138 [info] > git show --textconv :basic/array/array.go [8ms]
+2023-09-15 23:28:53.139 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/basic/array/array.go [2ms]
+2023-09-15 23:28:53.148 [info] > git cat-file -s dca914dafba3f39682a228412a2ea227d27a9317 [1ms]

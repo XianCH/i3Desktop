@@ -1,0 +1,269 @@
+2023-09-15 23:23:42.382 [info] Extension host with pid 3887 started
+2023-09-15 23:23:42.405 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-15 23:23:42.419 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-15 23:23:42.473 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-15 23:23:42.512 [info] Eager extensions activated
+2023-09-15 23:23:42.519 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-15 23:23:42.521 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-15 23:24:50.908 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-15 23:24:50.910 [info] Extension host with pid 3887 exiting with code 0
+2023-09-15 23:24:51.472 [info] Extension host with pid 3950 started
+2023-09-15 23:24:51.472 [info] Skipping acquiring lock for /home/x14n/.config/Code - OSS/User/workspaceStorage/81ae93d835728a1eef572822f814675a.
+2023-09-15 23:24:51.510 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-09-15 23:24:51.513 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-15 23:24:51.518 [info] Eager extensions activated
+2023-09-15 23:24:51.530 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-15 23:24:51.531 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-15 23:24:53.098 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-09-15 23:24:59.009 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-15 23:24:59.077 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-09-15 23:25:02.874 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-15 23:25:02.916 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-15 23:25:40.068 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2023-09-15 23:27:10.476 [error] [golang.go] provider FAILED
+2023-09-15 23:27:10.482 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:27:10.544 [error] [golang.go] provider FAILED
+2023-09-15 23:27:10.544 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:27:10.964 [error] [golang.go] provider FAILED
+2023-09-15 23:27:10.964 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:27:13.574 [error] [golang.go] provider FAILED
+2023-09-15 23:27:13.574 [error] Error: re-parsing declaration of Println: context canceled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:27:14.517 [error] [golang.go] provider FAILED
+2023-09-15 23:27:14.517 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:27:15.006 [error] [golang.go] provider FAILED
+2023-09-15 23:27:15.006 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:27:37.673 [error] [golang.go] provider FAILED
+2023-09-15 23:27:37.673 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:27:56.365 [error] [golang.go] provider FAILED
+2023-09-15 23:27:56.365 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:27:56.662 [error] [golang.go] provider FAILED
+2023-09-15 23:27:56.663 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:27:59.164 [error] [golang.go] provider FAILED
+2023-09-15 23:27:59.164 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:27:59.463 [error] [golang.go] provider FAILED
+2023-09-15 23:27:59.463 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:01.522 [error] [golang.go] provider FAILED
+2023-09-15 23:28:01.522 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:01.818 [error] [golang.go] provider FAILED
+2023-09-15 23:28:01.818 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:11.439 [error] [golang.go] provider FAILED
+2023-09-15 23:28:11.439 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:11.575 [error] [golang.go] provider FAILED
+2023-09-15 23:28:11.575 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:12.588 [error] [golang.go] provider FAILED
+2023-09-15 23:28:12.588 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:12.731 [error] [golang.go] provider FAILED
+2023-09-15 23:28:12.731 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:19.009 [error] [golang.go] provider FAILED
+2023-09-15 23:28:19.010 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:19.144 [error] [golang.go] provider FAILED
+2023-09-15 23:28:19.144 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:25.400 [error] [golang.go] provider FAILED
+2023-09-15 23:28:25.400 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:25.541 [error] [golang.go] provider FAILED
+2023-09-15 23:28:25.541 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:47.051 [error] [golang.go] provider FAILED
+2023-09-15 23:28:47.051 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:47.334 [error] [golang.go] provider FAILED
+2023-09-15 23:28:47.335 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:52.920 [error] [golang.go] provider FAILED
+2023-09-15 23:28:52.920 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:28:53.062 [error] [golang.go] provider FAILED
+2023-09-15 23:28:53.062 [error] Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-09-15 23:29:48.767 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-15 23:29:48.783 [error] Canceled: Canceled
+	at new h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:57382)
+	at i.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:8289)
+	at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:82208)
+	at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81646)
+	at u.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:80967)
+	at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:82744)
+	at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81739)
+	at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81646)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:21247)
+	at n.D [as value] (/usr/lib/code/extensions/git/dist/main.js:2:1309000)
+	at m.w (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:1324784)
+	at /usr/lib/code/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/usr/lib/code/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:103:3484)
+	at E.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:103:3581)
+	at E.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:103:3581)
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:9652)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7585
+	at Array.map (<anonymous>)
+	at n.S (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7572)
+	at n.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7844)
+	at o.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:1513)
+	at D (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:135:9800)
+	at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:135:6225)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-15 23:29:48.784 [error] Canceled: Canceled
+	at new h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:57382)
+	at i.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:8289)
+	at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:82208)
+	at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81646)
+	at u.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:80967)
+	at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:82744)
+	at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81739)
+	at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81646)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:21247)
+	at set b [as b] (/usr/lib/code/extensions/github/dist/extension.js:2:714434)
+	at /usr/lib/code/extensions/github/dist/extension.js:2:715075
+	at n.value (/usr/lib/code/extensions/git/dist/main.js:2:1396602)
+	at m.w (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:1324784)
+	at /usr/lib/code/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/usr/lib/code/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:103:3484)
+	at E.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:103:3581)
+	at E.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:103:3581)
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:9652)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7585
+	at Array.map (<anonymous>)
+	at n.S (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7572)
+	at n.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7844)
+	at o.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:1513)
+	at D (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:135:9800)
+	at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:135:6225)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-15 23:29:48.787 [info] Extension host with pid 3950 exiting with code 0

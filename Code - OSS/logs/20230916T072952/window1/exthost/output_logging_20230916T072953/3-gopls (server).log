@@ -1,0 +1,9 @@
+[Info  - 7:29:53 AM] 2023/09/15 23:29:53 go info for /home/x14n/code/goproj
+(go dir /home/x14n/code/goproj/github.com/x14n/goStu)
+(go version go version go1.21.1 linux/amd64)
+(valid build configuration = true)
+(build flags: [])
+(selected go env: [GO111MODULE=auto, GOCACHE=/home/x14n/.cache/go-build, GOFLAGS=, GOMODCACHE=/home/x14n/go/pkg/mod, GOPATH=/home/x14n/go, GOPRIVATE=, GOROOT=/usr/lib/go, GOWORK=])
+
+
+[Error - 7:31:03 AM] Stopping server timed out

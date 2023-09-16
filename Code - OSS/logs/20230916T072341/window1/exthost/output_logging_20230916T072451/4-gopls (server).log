@@ -1,0 +1,302 @@
+[Info  - 7:25:40 AM] 2023/09/15 23:25:40 go info for /home/x14n/code/goproj
+(go dir /home/x14n/code/goproj/github.com/x14n/goStu)
+(go version go version go1.21.1 linux/amd64)
+(valid build configuration = true)
+(build flags: [])
+(selected go env: [GO111MODULE=, GOCACHE=/home/x14n/.cache/go-build, GOFLAGS=, GOMODCACHE=/home/x14n/go/pkg/mod, GOPATH=/home/x14n/go, GOPRIVATE=, GOROOT=/usr/lib/go, GOWORK=])
+
+
+[Info  - 7:27:10 AM] 2023/09/15 23:27:10 go/packages.Load #1
+	snapshot=0
+	directory=file:///home/x14n/code/goproj
+	query=[/home/x14n/code/goproj/github.com/x14n/goStu/... builtin]
+	packages=30
+
+[Info  - 7:27:10 AM] 2023/09/15 23:27:10 go/packages.Load #1: updating metadata for 162 packages
+
+[Error - 7:27:10 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:27:10 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:27:10 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:27:12 AM] 2023/09/15 23:27:12 tidy: diagnosing file:///home/x14n/code/goproj/github.com/x14n/goStu/go.mod: err: exit status 1: stderr: go: downloading github.com/gin-gonic/gin v1.9.1
+go: downloading github.com/jmoiron/sqlx v1.3.5
+go: downloading github.com/go-sql-driver/mysql v1.7.1
+go: downloading github.com/gomodule/redigo v1.8.9
+go: downloading github.com/gorilla/websocket v1.5.0
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/go-sql-driver/mysql: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/jmoiron/sqlx: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/redis imports
+	github.com/gomodule/redigo/redis: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/freamworkStu/gin imports
+	github.com/gin-gonic/gin: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/web/websocket imports
+	github.com/gorilla/websocket: module lookup disabled by GOPROXY=off
+
+
+[Error - 7:27:13 AM] Request textDocument/hover failed.
+  Message: re-parsing declaration of Println: context canceled
+  Code: 0 
+[Error - 7:27:14 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:27:15 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:27:37 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 7:27:40 AM] 2023/09/15 23:27:40 background imports cache refresh starting
+
+[Info  - 7:27:40 AM] 2023/09/15 23:27:40 background refresh finished after 22.001496ms
+
+[Error - 7:27:56 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:27:56 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:27:57 AM] 2023/09/15 23:27:57 tidy: diagnosing file:///home/x14n/code/goproj/github.com/x14n/goStu/go.mod: err: exit status 1: stderr: go: downloading github.com/gin-gonic/gin v1.9.1
+go: downloading github.com/jmoiron/sqlx v1.3.5
+go: downloading github.com/go-sql-driver/mysql v1.7.1
+go: downloading github.com/gomodule/redigo v1.8.9
+go: downloading github.com/gorilla/websocket v1.5.0
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/go-sql-driver/mysql: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/jmoiron/sqlx: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/redis imports
+	github.com/gomodule/redigo/redis: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/freamworkStu/gin imports
+	github.com/gin-gonic/gin: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/web/websocket imports
+	github.com/gorilla/websocket: module lookup disabled by GOPROXY=off
+
+
+[Error - 7:27:59 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:27:59 AM] 2023/09/15 23:27:59 imports fixes: AllImportsFixes: /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue/queue.go:25:2: expected declaration, found 'if'
+	file="/home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue/queue.go"
+
+[Error - 7:27:59 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:28:00 AM] 2023/09/15 23:28:00 tidy: diagnosing file:///home/x14n/code/goproj/github.com/x14n/goStu/go.mod: err: exit status 1: stderr: go: downloading github.com/gin-gonic/gin v1.9.1
+go: downloading github.com/jmoiron/sqlx v1.3.5
+go: downloading github.com/go-sql-driver/mysql v1.7.1
+go: downloading github.com/gomodule/redigo v1.8.9
+go: downloading github.com/gorilla/websocket v1.5.0
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/go-sql-driver/mysql: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/jmoiron/sqlx: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/redis imports
+	github.com/gomodule/redigo/redis: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/freamworkStu/gin imports
+	github.com/gin-gonic/gin: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/web/websocket imports
+	github.com/gorilla/websocket: module lookup disabled by GOPROXY=off
+
+
+[Error - 7:28:00 AM] 2023/09/15 23:28:00 imports fixes: AllImportsFixes: /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue/queue.go:25:2: expected declaration, found 'if'
+	file="/home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue/queue.go"
+
+[Error - 7:28:00 AM] 2023/09/15 23:28:00 imports fixes: AllImportsFixes: /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue/queue.go:25:2: expected declaration, found 'if'
+	file="/home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue/queue.go"
+
+[Error - 7:28:01 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:28:01 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:28:02 AM] 2023/09/15 23:28:02 tidy: diagnosing file:///home/x14n/code/goproj/github.com/x14n/goStu/go.mod: err: exit status 1: stderr: go: downloading github.com/gin-gonic/gin v1.9.1
+go: downloading github.com/go-sql-driver/mysql v1.7.1
+go: downloading github.com/gomodule/redigo v1.8.9
+go: downloading github.com/jmoiron/sqlx v1.3.5
+go: downloading github.com/gorilla/websocket v1.5.0
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/go-sql-driver/mysql: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/jmoiron/sqlx: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/redis imports
+	github.com/gomodule/redigo/redis: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/freamworkStu/gin imports
+	github.com/gin-gonic/gin: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/web/websocket imports
+	github.com/gorilla/websocket: module lookup disabled by GOPROXY=off
+
+
+[Error - 7:28:11 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:28:11 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:28:12 AM] 2023/09/15 23:28:12 tidy: diagnosing file:///home/x14n/code/goproj/github.com/x14n/goStu/go.mod: err: exit status 1: stderr: go: downloading github.com/gin-gonic/gin v1.9.1
+go: downloading github.com/gorilla/websocket v1.5.0
+go: downloading github.com/gomodule/redigo v1.8.9
+go: downloading github.com/jmoiron/sqlx v1.3.5
+go: downloading github.com/go-sql-driver/mysql v1.7.1
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/go-sql-driver/mysql: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/jmoiron/sqlx: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/redis imports
+	github.com/gomodule/redigo/redis: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/freamworkStu/gin imports
+	github.com/gin-gonic/gin: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/web/websocket imports
+	github.com/gorilla/websocket: module lookup disabled by GOPROXY=off
+
+
+[Error - 7:28:12 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:28:12 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:28:13 AM] 2023/09/15 23:28:13 tidy: diagnosing file:///home/x14n/code/goproj/github.com/x14n/goStu/go.mod: err: exit status 1: stderr: go: downloading github.com/gin-gonic/gin v1.9.1
+go: downloading github.com/gomodule/redigo v1.8.9
+go: downloading github.com/go-sql-driver/mysql v1.7.1
+go: downloading github.com/gorilla/websocket v1.5.0
+go: downloading github.com/jmoiron/sqlx v1.3.5
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/go-sql-driver/mysql: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/jmoiron/sqlx: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/redis imports
+	github.com/gomodule/redigo/redis: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/freamworkStu/gin imports
+	github.com/gin-gonic/gin: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/web/websocket imports
+	github.com/gorilla/websocket: module lookup disabled by GOPROXY=off
+
+
+[Error - 7:28:16 AM] 2023/09/15 23:28:16 tidy: diagnosing file:///home/x14n/code/goproj/github.com/x14n/goStu/go.mod: err: exit status 1: stderr: go: downloading github.com/gin-gonic/gin v1.9.1
+go: downloading github.com/gomodule/redigo v1.8.9
+go: downloading github.com/go-sql-driver/mysql v1.7.1
+go: downloading github.com/gorilla/websocket v1.5.0
+go: downloading github.com/jmoiron/sqlx v1.3.5
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/go-sql-driver/mysql: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/jmoiron/sqlx: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/redis imports
+	github.com/gomodule/redigo/redis: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/freamworkStu/gin imports
+	github.com/gin-gonic/gin: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/web/websocket imports
+	github.com/gorilla/websocket: module lookup disabled by GOPROXY=off
+
+
+[Error - 7:28:19 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:28:19 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:28:20 AM] 2023/09/15 23:28:20 tidy: diagnosing file:///home/x14n/code/goproj/github.com/x14n/goStu/go.mod: err: exit status 1: stderr: go: downloading github.com/gin-gonic/gin v1.9.1
+go: downloading github.com/gorilla/websocket v1.5.0
+go: downloading github.com/gomodule/redigo v1.8.9
+go: downloading github.com/go-sql-driver/mysql v1.7.1
+go: downloading github.com/jmoiron/sqlx v1.3.5
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/go-sql-driver/mysql: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/jmoiron/sqlx: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/redis imports
+	github.com/gomodule/redigo/redis: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/freamworkStu/gin imports
+	github.com/gin-gonic/gin: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/web/websocket imports
+	github.com/gorilla/websocket: module lookup disabled by GOPROXY=off
+
+
+[Info  - 7:28:24 AM] 2023/09/15 23:28:24 background imports cache refresh starting
+
+[Info  - 7:28:25 AM] 2023/09/15 23:28:25 background refresh finished after 7.781005ms
+
+[Error - 7:28:25 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:28:25 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:28:26 AM] 2023/09/15 23:28:26 tidy: diagnosing file:///home/x14n/code/goproj/github.com/x14n/goStu/go.mod: err: exit status 1: stderr: go: downloading github.com/gomodule/redigo v1.8.9
+go: downloading github.com/go-sql-driver/mysql v1.7.1
+go: downloading github.com/jmoiron/sqlx v1.3.5
+go: downloading github.com/gorilla/websocket v1.5.0
+go: downloading github.com/gin-gonic/gin v1.9.1
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/go-sql-driver/mysql: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/jmoiron/sqlx: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/redis imports
+	github.com/gomodule/redigo/redis: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/freamworkStu/gin imports
+	github.com/gin-gonic/gin: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/web/websocket imports
+	github.com/gorilla/websocket: module lookup disabled by GOPROXY=off
+
+
+[Error - 7:28:28 AM] 2023/09/15 23:28:28 tidy: diagnosing file:///home/x14n/code/goproj/github.com/x14n/goStu/go.mod: err: exit status 1: stderr: go: downloading github.com/gomodule/redigo v1.8.9
+go: downloading github.com/go-sql-driver/mysql v1.7.1
+go: downloading github.com/jmoiron/sqlx v1.3.5
+go: downloading github.com/gorilla/websocket v1.5.0
+go: downloading github.com/gin-gonic/gin v1.9.1
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/go-sql-driver/mysql: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/jmoiron/sqlx: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/redis imports
+	github.com/gomodule/redigo/redis: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/freamworkStu/gin imports
+	github.com/gin-gonic/gin: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/web/websocket imports
+	github.com/gorilla/websocket: module lookup disabled by GOPROXY=off
+
+
+[Error - 7:28:47 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:28:47 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:28:52 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:28:53 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 7:28:53 AM] 2023/09/15 23:28:53 tidy: diagnosing file:///home/x14n/code/goproj/github.com/x14n/goStu/go.mod: err: exit status 1: stderr: go: downloading github.com/gin-gonic/gin v1.9.1
+go: downloading github.com/gorilla/websocket v1.5.0
+go: downloading github.com/gomodule/redigo v1.8.9
+go: downloading github.com/jmoiron/sqlx v1.3.5
+go: downloading github.com/go-sql-driver/mysql v1.7.1
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/go-sql-driver/mysql: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/jmoiron/sqlx: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/redis imports
+	github.com/gomodule/redigo/redis: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/freamworkStu/gin imports
+	github.com/gin-gonic/gin: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/web/websocket imports
+	github.com/gorilla/websocket: module lookup disabled by GOPROXY=off
+
+
+[Info  - 7:28:55 AM] 2023/09/15 23:28:55 background imports cache refresh starting
+
+[Info  - 7:28:55 AM] 2023/09/15 23:28:55 background refresh finished after 3.552702ms
+
+[Info  - 7:29:48 AM] 2023/09/15 23:29:48 Shutdown session
+	shutdown_session=1
+

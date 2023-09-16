@@ -1,0 +1,7 @@
+2023-09-15 23:25:36.668 [info] Getting Manifest... golang.go
+2023-09-15 23:25:37.440 [info] Installing extension: golang.go
+2023-09-15 23:25:39.904 [info] Extension signature verification is not done: golang.go
+2023-09-15 23:25:39.956 [info] Extracted extension to file:///home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal: golang.go
+2023-09-15 23:25:39.959 [info] Renamed to /home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal
+2023-09-15 23:25:39.961 [info] Extracting extension completed. golang.go
+2023-09-15 23:25:39.968 [info] Extension installed successfully: golang.go

@@ -1,0 +1,19 @@
+Tools environment: GOPATH=/home/x14n/go
+Installing 7 tools at /home/x14n/go/bin in module mode.
+  gotests
+  gomodifytags
+  impl
+  goplay
+  dlv
+  staticcheck
+  gopls
+
+Installing github.com/cweill/gotests/gotests@v1.6.0 FAILED
+{
+ "code": 1,
+ "killed": false,
+ "signal": null,
+ "cmd": "/usr/bin/go install -v github.com/cweill/gotests/gotests@v1.6.0",
+ "stdout": "",
+ "stderr": "go: github.com/cweill/gotests/gotests@v1.6.0: github.com/cweill/gotests/gotests@v1.6.0: Get \"https://proxy.golang.org/github.com/cweill/gotests/gotests/@v/v1.6.0.info\": dial tcp 172.217.160.81:443: i/o timeout\n"
+}

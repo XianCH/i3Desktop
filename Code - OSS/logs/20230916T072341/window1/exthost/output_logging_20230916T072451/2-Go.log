@@ -1,0 +1,53 @@
+Tools environment: GOPATH=/home/x14n/go
+Installing 7 tools at /home/x14n/go/bin in module mode.
+  gotests
+  gomodifytags
+  impl
+  goplay
+  dlv
+  staticcheck
+  gopls
+
+Starting linting the current package at /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue
+/home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue>Finished running tool: /home/x14n/go/bin/staticcheck
+/home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue/queue.go:28:19 syntax error: unexpected literal `` at end of statement (compile)
+
+Starting linting the current package at /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue
+/home/x14n/code/goproj/github.com/x14n/goStu/databasestu/queue>Finished running tool: /home/x14n/go/bin/staticcheck
+
+Installing github.com/cweill/gotests/gotests@v1.6.0 FAILED
+{
+ "code": 1,
+ "killed": false,
+ "signal": null,
+ "cmd": "/usr/bin/go install -v github.com/cweill/gotests/gotests@v1.6.0",
+ "stdout": "",
+ "stderr": "go: github.com/cweill/gotests/gotests@v1.6.0: github.com/cweill/gotests/gotests@v1.6.0: Get \"https://proxy.golang.org/github.com/cweill/gotests/gotests/@v/v1.6.0.info\": dial tcp 172.217.160.113:443: i/o timeout\n"
+}
+Installing github.com/fatih/gomodifytags@v1.16.0 (/home/x14n/go/bin/gomodifytags) SUCCEEDED
+Starting linting the current package at /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/tree
+/home/x14n/code/goproj/github.com/x14n/goStu/databasestu/tree>Finished running tool: /home/x14n/go/bin/staticcheck
+/home/x14n/code/goproj/github.com/x14n/goStu/databasestu/tree/tree.go:59:6 main redeclared in this block
+
+Starting linting the current package at /home/x14n/code/goproj/github.com/x14n/goStu/databasestu/stack
+/home/x14n/code/goproj/github.com/x14n/goStu/databasestu/stack>Finished running tool: /home/x14n/go/bin/staticcheck
+
+Installing github.com/josharian/impl@v1.1.0 FAILED
+{
+ "code": 1,
+ "killed": false,
+ "signal": null,
+ "cmd": "/usr/bin/go install -v github.com/josharian/impl@v1.1.0",
+ "stdout": "",
+ "stderr": "go: github.com/josharian/impl@v1.1.0: github.com/josharian/impl@v1.1.0: Get \"https://proxy.golang.org/github.com/josharian/impl/@v/v1.1.0.info\": dial tcp 172.217.160.113:443: i/o timeout\n"
+}
+Tools environment: GOPATH=/home/x14n/go
+Installing 7 tools at /home/x14n/go/bin in module mode.
+  gotests
+  gomodifytags
+  impl
+  goplay
+  dlv
+  staticcheck
+  gopls
+
