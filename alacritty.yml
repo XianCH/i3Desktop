@@ -6,7 +6,7 @@ font:
     family: Source Code Pro
   italic:
     family: Source Code Pro
-  size: 7
+  size: 12
 
 window:
   opacity: 0.3

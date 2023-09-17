@@ -825,3 +825,729 @@
 20230916142742 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
 20230916142742 [739,739] OnlineMakeBigramSerData #4
 20230916142742 [739,739] DictManager LoadSysBigramDict #2
+20230916190449 [49876,49876] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916190449 [49876,49876] SysDict Load #4
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916190449 [49876,49876] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916190449 [49876,49876] SysDict ReadUuidAndStroke2Offset #3
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916190449 [49876,49876] StoreBigramSerData #1
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916190449 [49876,49876] OnlineMakeBigramSerData #4
+20230916190449 [49876,49876] DictManager LoadSysBigramDict #2
+20230916190449 [49876,49876] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916190449 [49876,49876] SysDict ReadUuidAndStroke2Offset #3
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916190449 [49876,49876] StoreBigramSerData #1
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916190449 [49876,49876] OnlineMakeBigramSerData #4
+20230916190449 [49876,49876] DictManager LoadSysBigramDict #2
+20230916190449 [49876,49876] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916190449 [49876,49876] SysDict ReadUuidAndStroke2Offset #3
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916190449 [49876,49876] StoreBigramSerData #1
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916190449 [49876,49876] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916190449 [49876,49876] OnlineMakeBigramSerData #4
+20230916190449 [49876,49876] DictManager LoadSysBigramDict #2
+20230916193954 [764,764] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916193954 [764,764] SysDict Load #4
+20230916193954 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916193954 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916193954 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916193954 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916193954 [764,764] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916193954 [764,764] SysDict ReadUuidAndStroke2Offset #3
+20230916193954 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916193954 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916193954 [764,764] StoreBigramSerData #1
+20230916193954 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916193954 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916193954 [764,764] OnlineMakeBigramSerData #4
+20230916193954 [764,764] DictManager LoadSysBigramDict #2
+20230916193954 [764,764] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916193954 [764,764] SysDict ReadUuidAndStroke2Offset #3
+20230916193954 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916193954 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916193954 [764,764] StoreBigramSerData #1
+20230916193954 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916193954 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916193954 [764,764] OnlineMakeBigramSerData #4
+20230916193954 [764,764] DictManager LoadSysBigramDict #2
+20230916193954 [764,764] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916193954 [764,764] SysDict ReadUuidAndStroke2Offset #3
+20230916193954 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916193954 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916193954 [764,764] StoreBigramSerData #1
+20230916193954 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916193954 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916193954 [764,764] OnlineMakeBigramSerData #4
+20230916193954 [764,764] DictManager LoadSysBigramDict #2
+20230916201718 [821,821] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916201718 [821,821] SysDict Load #4
+20230916201718 [821,821] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916201718 [821,821] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916201718 [821,821] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916201718 [821,821] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916201719 [821,821] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916201719 [821,821] SysDict ReadUuidAndStroke2Offset #3
+20230916201719 [821,821] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916201719 [821,821] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916201719 [821,821] StoreBigramSerData #1
+20230916201719 [821,821] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916201719 [821,821] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916201719 [821,821] OnlineMakeBigramSerData #4
+20230916201719 [821,821] DictManager LoadSysBigramDict #2
+20230916201719 [821,821] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916201719 [821,821] SysDict ReadUuidAndStroke2Offset #3
+20230916201719 [821,821] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916201719 [821,821] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916201719 [821,821] StoreBigramSerData #1
+20230916201719 [821,821] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916201719 [821,821] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916201719 [821,821] OnlineMakeBigramSerData #4
+20230916201719 [821,821] DictManager LoadSysBigramDict #2
+20230916201719 [821,821] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916201719 [821,821] SysDict ReadUuidAndStroke2Offset #3
+20230916201719 [821,821] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916201719 [821,821] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916201719 [821,821] StoreBigramSerData #1
+20230916201719 [821,821] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916201719 [821,821] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916201719 [821,821] OnlineMakeBigramSerData #4
+20230916201719 [821,821] DictManager LoadSysBigramDict #2
+20230916202002 [729,729] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916202002 [729,729] SysDict Load #4
+20230916202002 [729,729] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916202002 [729,729] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916202002 [729,729] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916202002 [729,729] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916202002 [729,729] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916202002 [729,729] SysDict ReadUuidAndStroke2Offset #3
+20230916202002 [729,729] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916202002 [729,729] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916202002 [729,729] StoreBigramSerData #1
+20230916202002 [729,729] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916202002 [729,729] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916202002 [729,729] OnlineMakeBigramSerData #4
+20230916202002 [729,729] DictManager LoadSysBigramDict #2
+20230916202002 [729,729] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916202002 [729,729] SysDict ReadUuidAndStroke2Offset #3
+20230916202002 [729,729] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916202002 [729,729] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916202002 [729,729] StoreBigramSerData #1
+20230916202002 [729,729] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916202002 [729,729] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916202002 [729,729] OnlineMakeBigramSerData #4
+20230916202002 [729,729] DictManager LoadSysBigramDict #2
+20230916202002 [729,729] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916202002 [729,729] SysDict ReadUuidAndStroke2Offset #3
+20230916202002 [729,729] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916202002 [729,729] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916202002 [729,729] StoreBigramSerData #1
+20230916202002 [729,729] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916202002 [729,729] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916202002 [729,729] OnlineMakeBigramSerData #4
+20230916202002 [729,729] DictManager LoadSysBigramDict #2
+20230916215143 [739,739] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916215143 [739,739] SysDict Load #4
+20230916215143 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916215143 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916215143 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916215143 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916215143 [739,739] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916215143 [739,739] SysDict ReadUuidAndStroke2Offset #3
+20230916215143 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916215143 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916215143 [739,739] StoreBigramSerData #1
+20230916215143 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916215143 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916215143 [739,739] OnlineMakeBigramSerData #4
+20230916215143 [739,739] DictManager LoadSysBigramDict #2
+20230916215143 [739,739] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916215143 [739,739] SysDict ReadUuidAndStroke2Offset #3
+20230916215143 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916215143 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916215143 [739,739] StoreBigramSerData #1
+20230916215143 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916215143 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916215143 [739,739] OnlineMakeBigramSerData #4
+20230916215143 [739,739] DictManager LoadSysBigramDict #2
+20230916215143 [739,739] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916215143 [739,739] SysDict ReadUuidAndStroke2Offset #3
+20230916215143 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916215143 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916215143 [739,739] StoreBigramSerData #1
+20230916215143 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916215143 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916215143 [739,739] OnlineMakeBigramSerData #4
+20230916215143 [739,739] DictManager LoadSysBigramDict #2
+20230916222953 [758,758] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916222953 [758,758] SysDict Load #4
+20230916222953 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916222953 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916222953 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916222953 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916222953 [758,758] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916222953 [758,758] SysDict ReadUuidAndStroke2Offset #3
+20230916222953 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916222953 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916222953 [758,758] StoreBigramSerData #1
+20230916222953 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916222953 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916222953 [758,758] OnlineMakeBigramSerData #4
+20230916222953 [758,758] DictManager LoadSysBigramDict #2
+20230916222953 [758,758] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916222953 [758,758] SysDict ReadUuidAndStroke2Offset #3
+20230916222953 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916222953 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916222953 [758,758] StoreBigramSerData #1
+20230916222953 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916222953 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916222953 [758,758] OnlineMakeBigramSerData #4
+20230916222953 [758,758] DictManager LoadSysBigramDict #2
+20230916222953 [758,758] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916222953 [758,758] SysDict ReadUuidAndStroke2Offset #3
+20230916222953 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916222953 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916222953 [758,758] StoreBigramSerData #1
+20230916222953 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916222953 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916222953 [758,758] OnlineMakeBigramSerData #4
+20230916222953 [758,758] DictManager LoadSysBigramDict #2
+20230916230235 [740,740] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916230235 [740,740] SysDict Load #4
+20230916230235 [740,740] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916230235 [740,740] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916230235 [740,740] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916230235 [740,740] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916230235 [740,740] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916230235 [740,740] SysDict ReadUuidAndStroke2Offset #3
+20230916230235 [740,740] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916230235 [740,740] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916230235 [740,740] StoreBigramSerData #1
+20230916230235 [740,740] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916230235 [740,740] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916230235 [740,740] OnlineMakeBigramSerData #4
+20230916230235 [740,740] DictManager LoadSysBigramDict #2
+20230916230235 [740,740] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916230235 [740,740] SysDict ReadUuidAndStroke2Offset #3
+20230916230235 [740,740] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916230235 [740,740] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916230235 [740,740] StoreBigramSerData #1
+20230916230235 [740,740] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916230235 [740,740] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916230235 [740,740] OnlineMakeBigramSerData #4
+20230916230235 [740,740] DictManager LoadSysBigramDict #2
+20230916230235 [740,740] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916230235 [740,740] SysDict ReadUuidAndStroke2Offset #3
+20230916230235 [740,740] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916230235 [740,740] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916230235 [740,740] StoreBigramSerData #1
+20230916230235 [740,740] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916230235 [740,740] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916230235 [740,740] OnlineMakeBigramSerData #4
+20230916230235 [740,740] DictManager LoadSysBigramDict #2
+20230916231409 [764,764] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916231409 [764,764] SysDict Load #4
+20230916231409 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916231409 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231409 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916231409 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231409 [764,764] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231409 [764,764] SysDict ReadUuidAndStroke2Offset #3
+20230916231409 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231409 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231409 [764,764] StoreBigramSerData #1
+20230916231409 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231409 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231409 [764,764] OnlineMakeBigramSerData #4
+20230916231409 [764,764] DictManager LoadSysBigramDict #2
+20230916231409 [764,764] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231409 [764,764] SysDict ReadUuidAndStroke2Offset #3
+20230916231409 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231409 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231409 [764,764] StoreBigramSerData #1
+20230916231409 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231409 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231409 [764,764] OnlineMakeBigramSerData #4
+20230916231409 [764,764] DictManager LoadSysBigramDict #2
+20230916231409 [764,764] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231409 [764,764] SysDict ReadUuidAndStroke2Offset #3
+20230916231409 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231409 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231409 [764,764] StoreBigramSerData #1
+20230916231409 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231409 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231409 [764,764] OnlineMakeBigramSerData #4
+20230916231409 [764,764] DictManager LoadSysBigramDict #2
+20230916231450 [764,764] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916231450 [764,764] SysDict Load #4
+20230916231450 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916231450 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231450 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916231450 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231450 [764,764] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231450 [764,764] SysDict ReadUuidAndStroke2Offset #3
+20230916231450 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231450 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231450 [764,764] StoreBigramSerData #1
+20230916231450 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231450 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231450 [764,764] OnlineMakeBigramSerData #4
+20230916231450 [764,764] DictManager LoadSysBigramDict #2
+20230916231450 [764,764] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231450 [764,764] SysDict ReadUuidAndStroke2Offset #3
+20230916231450 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231450 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231451 [764,764] StoreBigramSerData #1
+20230916231451 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231451 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231451 [764,764] OnlineMakeBigramSerData #4
+20230916231451 [764,764] DictManager LoadSysBigramDict #2
+20230916231451 [764,764] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231451 [764,764] SysDict ReadUuidAndStroke2Offset #3
+20230916231451 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231451 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231451 [764,764] StoreBigramSerData #1
+20230916231451 [764,764] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231451 [764,764] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231451 [764,764] OnlineMakeBigramSerData #4
+20230916231451 [764,764] DictManager LoadSysBigramDict #2
+20230916231653 [758,758] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916231653 [758,758] SysDict Load #4
+20230916231653 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916231653 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231653 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916231653 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231653 [758,758] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231653 [758,758] SysDict ReadUuidAndStroke2Offset #3
+20230916231653 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231653 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231653 [758,758] StoreBigramSerData #1
+20230916231653 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231653 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231653 [758,758] OnlineMakeBigramSerData #4
+20230916231653 [758,758] DictManager LoadSysBigramDict #2
+20230916231653 [758,758] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231653 [758,758] SysDict ReadUuidAndStroke2Offset #3
+20230916231653 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231653 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231653 [758,758] StoreBigramSerData #1
+20230916231653 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231653 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231653 [758,758] OnlineMakeBigramSerData #4
+20230916231653 [758,758] DictManager LoadSysBigramDict #2
+20230916231653 [758,758] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231653 [758,758] SysDict ReadUuidAndStroke2Offset #3
+20230916231653 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231653 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231653 [758,758] StoreBigramSerData #1
+20230916231653 [758,758] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231653 [758,758] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231653 [758,758] OnlineMakeBigramSerData #4
+20230916231653 [758,758] DictManager LoadSysBigramDict #2
+20230916231802 [737,737] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916231802 [737,737] SysDict Load #4
+20230916231802 [737,737] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916231802 [737,737] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231802 [737,737] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916231802 [737,737] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231802 [737,737] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231802 [737,737] SysDict ReadUuidAndStroke2Offset #3
+20230916231802 [737,737] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231802 [737,737] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231802 [737,737] StoreBigramSerData #1
+20230916231802 [737,737] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231802 [737,737] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231802 [737,737] OnlineMakeBigramSerData #4
+20230916231802 [737,737] DictManager LoadSysBigramDict #2
+20230916231802 [737,737] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231802 [737,737] SysDict ReadUuidAndStroke2Offset #3
+20230916231802 [737,737] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231802 [737,737] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231803 [737,737] StoreBigramSerData #1
+20230916231803 [737,737] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231803 [737,737] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231803 [737,737] OnlineMakeBigramSerData #4
+20230916231803 [737,737] DictManager LoadSysBigramDict #2
+20230916231803 [737,737] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231803 [737,737] SysDict ReadUuidAndStroke2Offset #3
+20230916231803 [737,737] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231803 [737,737] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231803 [737,737] StoreBigramSerData #1
+20230916231803 [737,737] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916231803 [737,737] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916231803 [737,737] OnlineMakeBigramSerData #4
+20230916231803 [737,737] DictManager LoadSysBigramDict #2
+20230916234428 [782,782] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916234428 [782,782] SysDict Load #4
+20230916234428 [782,782] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916234428 [782,782] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916234429 [782,782] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916234429 [782,782] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916234429 [782,782] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916234429 [782,782] SysDict ReadUuidAndStroke2Offset #3
+20230916234429 [782,782] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916234429 [782,782] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916234429 [782,782] StoreBigramSerData #1
+20230916234429 [782,782] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916234429 [782,782] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916234429 [782,782] OnlineMakeBigramSerData #4
+20230916234429 [782,782] DictManager LoadSysBigramDict #2
+20230916234429 [782,782] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916234429 [782,782] SysDict ReadUuidAndStroke2Offset #3
+20230916234429 [782,782] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916234429 [782,782] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916234429 [782,782] StoreBigramSerData #1
+20230916234429 [782,782] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916234429 [782,782] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916234429 [782,782] OnlineMakeBigramSerData #4
+20230916234429 [782,782] DictManager LoadSysBigramDict #2
+20230916234429 [782,782] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916234429 [782,782] SysDict ReadUuidAndStroke2Offset #3
+20230916234429 [782,782] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916234429 [782,782] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916234429 [782,782] StoreBigramSerData #1
+20230916234429 [782,782] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916234429 [782,782] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916234429 [782,782] OnlineMakeBigramSerData #4
+20230916234429 [782,782] DictManager LoadSysBigramDict #2
+20230916235201 [786,786] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916235201 [786,786] SysDict Load #4
+20230916235201 [786,786] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916235201 [786,786] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235202 [786,786] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916235202 [786,786] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235202 [786,786] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235202 [786,786] SysDict ReadUuidAndStroke2Offset #3
+20230916235202 [786,786] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235202 [786,786] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235202 [786,786] StoreBigramSerData #1
+20230916235202 [786,786] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235202 [786,786] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235202 [786,786] OnlineMakeBigramSerData #4
+20230916235202 [786,786] DictManager LoadSysBigramDict #2
+20230916235202 [786,786] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235202 [786,786] SysDict ReadUuidAndStroke2Offset #3
+20230916235202 [786,786] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235202 [786,786] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235202 [786,786] StoreBigramSerData #1
+20230916235202 [786,786] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235202 [786,786] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235202 [786,786] OnlineMakeBigramSerData #4
+20230916235202 [786,786] DictManager LoadSysBigramDict #2
+20230916235202 [786,786] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235202 [786,786] SysDict ReadUuidAndStroke2Offset #3
+20230916235202 [786,786] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235202 [786,786] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235202 [786,786] StoreBigramSerData #1
+20230916235202 [786,786] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235202 [786,786] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235202 [786,786] OnlineMakeBigramSerData #4
+20230916235202 [786,786] DictManager LoadSysBigramDict #2
+20230916235647 [749,749] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916235647 [749,749] SysDict Load #4
+20230916235647 [749,749] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916235647 [749,749] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235647 [749,749] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230916235647 [749,749] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235647 [749,749] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235647 [749,749] SysDict ReadUuidAndStroke2Offset #3
+20230916235647 [749,749] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235647 [749,749] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235647 [749,749] StoreBigramSerData #1
+20230916235647 [749,749] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235647 [749,749] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235647 [749,749] OnlineMakeBigramSerData #4
+20230916235647 [749,749] DictManager LoadSysBigramDict #2
+20230916235647 [749,749] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235647 [749,749] SysDict ReadUuidAndStroke2Offset #3
+20230916235647 [749,749] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235647 [749,749] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235647 [749,749] StoreBigramSerData #1
+20230916235647 [749,749] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235647 [749,749] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235647 [749,749] OnlineMakeBigramSerData #4
+20230916235647 [749,749] DictManager LoadSysBigramDict #2
+20230916235647 [749,749] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235647 [749,749] SysDict ReadUuidAndStroke2Offset #3
+20230916235647 [749,749] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235647 [749,749] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235647 [749,749] StoreBigramSerData #1
+20230916235647 [749,749] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230916235647 [749,749] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230916235647 [749,749] OnlineMakeBigramSerData #4
+20230916235647 [749,749] DictManager LoadSysBigramDict #2
+20230917002109 [745,745] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917002109 [745,745] SysDict Load #4
+20230917002109 [745,745] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917002109 [745,745] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917002109 [745,745] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917002109 [745,745] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917002109 [745,745] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917002109 [745,745] SysDict ReadUuidAndStroke2Offset #3
+20230917002109 [745,745] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917002109 [745,745] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917002109 [745,745] StoreBigramSerData #1
+20230917002109 [745,745] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917002109 [745,745] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917002109 [745,745] OnlineMakeBigramSerData #4
+20230917002109 [745,745] DictManager LoadSysBigramDict #2
+20230917002109 [745,745] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917002109 [745,745] SysDict ReadUuidAndStroke2Offset #3
+20230917002109 [745,745] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917002109 [745,745] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917002109 [745,745] StoreBigramSerData #1
+20230917002109 [745,745] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917002109 [745,745] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917002109 [745,745] OnlineMakeBigramSerData #4
+20230917002109 [745,745] DictManager LoadSysBigramDict #2
+20230917002109 [745,745] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917002109 [745,745] SysDict ReadUuidAndStroke2Offset #3
+20230917002109 [745,745] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917002109 [745,745] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917002109 [745,745] StoreBigramSerData #1
+20230917002109 [745,745] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917002109 [745,745] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917002109 [745,745] OnlineMakeBigramSerData #4
+20230917002109 [745,745] DictManager LoadSysBigramDict #2
+20230917020459 [735,735] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917020459 [735,735] SysDict Load #4
+20230917020459 [735,735] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917020459 [735,735] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917020459 [735,735] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917020459 [735,735] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917020459 [735,735] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917020459 [735,735] SysDict ReadUuidAndStroke2Offset #3
+20230917020459 [735,735] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917020459 [735,735] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917020459 [735,735] StoreBigramSerData #1
+20230917020459 [735,735] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917020459 [735,735] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917020459 [735,735] OnlineMakeBigramSerData #4
+20230917020459 [735,735] DictManager LoadSysBigramDict #2
+20230917020459 [735,735] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917020459 [735,735] SysDict ReadUuidAndStroke2Offset #3
+20230917020459 [735,735] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917020459 [735,735] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917020459 [735,735] StoreBigramSerData #1
+20230917020459 [735,735] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917020459 [735,735] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917020459 [735,735] OnlineMakeBigramSerData #4
+20230917020459 [735,735] DictManager LoadSysBigramDict #2
+20230917020459 [735,735] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917020459 [735,735] SysDict ReadUuidAndStroke2Offset #3
+20230917020459 [735,735] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917020459 [735,735] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917020459 [735,735] StoreBigramSerData #1
+20230917020459 [735,735] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917020459 [735,735] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917020459 [735,735] OnlineMakeBigramSerData #4
+20230917020459 [735,735] DictManager LoadSysBigramDict #2
+20230917021030 [747,747] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917021030 [747,747] SysDict Load #4
+20230917021030 [747,747] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917021030 [747,747] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021030 [747,747] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917021030 [747,747] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021030 [747,747] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021030 [747,747] SysDict ReadUuidAndStroke2Offset #3
+20230917021030 [747,747] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021030 [747,747] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021030 [747,747] StoreBigramSerData #1
+20230917021030 [747,747] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021030 [747,747] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021030 [747,747] OnlineMakeBigramSerData #4
+20230917021030 [747,747] DictManager LoadSysBigramDict #2
+20230917021030 [747,747] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021030 [747,747] SysDict ReadUuidAndStroke2Offset #3
+20230917021030 [747,747] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021030 [747,747] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021030 [747,747] StoreBigramSerData #1
+20230917021030 [747,747] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021030 [747,747] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021030 [747,747] OnlineMakeBigramSerData #4
+20230917021030 [747,747] DictManager LoadSysBigramDict #2
+20230917021030 [747,747] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021030 [747,747] SysDict ReadUuidAndStroke2Offset #3
+20230917021030 [747,747] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021030 [747,747] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021030 [747,747] StoreBigramSerData #1
+20230917021030 [747,747] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021030 [747,747] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021030 [747,747] OnlineMakeBigramSerData #4
+20230917021030 [747,747] DictManager LoadSysBigramDict #2
+20230917021911 [754,754] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917021911 [754,754] SysDict Load #4
+20230917021911 [754,754] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917021911 [754,754] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021911 [754,754] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917021911 [754,754] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021911 [754,754] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021911 [754,754] SysDict ReadUuidAndStroke2Offset #3
+20230917021911 [754,754] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021911 [754,754] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021911 [754,754] StoreBigramSerData #1
+20230917021911 [754,754] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021911 [754,754] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021911 [754,754] OnlineMakeBigramSerData #4
+20230917021911 [754,754] DictManager LoadSysBigramDict #2
+20230917021911 [754,754] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021911 [754,754] SysDict ReadUuidAndStroke2Offset #3
+20230917021911 [754,754] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021911 [754,754] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021911 [754,754] StoreBigramSerData #1
+20230917021911 [754,754] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021911 [754,754] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021911 [754,754] OnlineMakeBigramSerData #4
+20230917021911 [754,754] DictManager LoadSysBigramDict #2
+20230917021911 [754,754] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021911 [754,754] SysDict ReadUuidAndStroke2Offset #3
+20230917021911 [754,754] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021911 [754,754] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021911 [754,754] StoreBigramSerData #1
+20230917021911 [754,754] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917021911 [754,754] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917021911 [754,754] OnlineMakeBigramSerData #4
+20230917021911 [754,754] DictManager LoadSysBigramDict #2
+20230917022307 [739,739] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917022307 [739,739] SysDict Load #4
+20230917022307 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917022307 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917022307 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917022307 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917022307 [739,739] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917022307 [739,739] SysDict ReadUuidAndStroke2Offset #3
+20230917022307 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917022307 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917022307 [739,739] StoreBigramSerData #1
+20230917022307 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917022307 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917022307 [739,739] OnlineMakeBigramSerData #4
+20230917022307 [739,739] DictManager LoadSysBigramDict #2
+20230917022307 [739,739] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917022307 [739,739] SysDict ReadUuidAndStroke2Offset #3
+20230917022307 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917022307 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917022307 [739,739] StoreBigramSerData #1
+20230917022307 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917022307 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917022307 [739,739] OnlineMakeBigramSerData #4
+20230917022307 [739,739] DictManager LoadSysBigramDict #2
+20230917022307 [739,739] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917022307 [739,739] SysDict ReadUuidAndStroke2Offset #3
+20230917022307 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917022307 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917022307 [739,739] StoreBigramSerData #1
+20230917022307 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917022307 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917022307 [739,739] OnlineMakeBigramSerData #4
+20230917022307 [739,739] DictManager LoadSysBigramDict #2
+20230917024610 [5182,5182] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917024610 [5182,5182] SysDict Load #4
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917024610 [5182,5182] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917024610 [5182,5182] SysDict ReadUuidAndStroke2Offset #3
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917024610 [5182,5182] StoreBigramSerData #1
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917024610 [5182,5182] OnlineMakeBigramSerData #4
+20230917024610 [5182,5182] DictManager LoadSysBigramDict #2
+20230917024610 [5182,5182] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917024610 [5182,5182] SysDict ReadUuidAndStroke2Offset #3
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917024610 [5182,5182] StoreBigramSerData #1
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917024610 [5182,5182] OnlineMakeBigramSerData #4
+20230917024610 [5182,5182] DictManager LoadSysBigramDict #2
+20230917024610 [5182,5182] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917024610 [5182,5182] SysDict ReadUuidAndStroke2Offset #3
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917024610 [5182,5182] StoreBigramSerData #1
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917024610 [5182,5182] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917024610 [5182,5182] OnlineMakeBigramSerData #4
+20230917024610 [5182,5182] DictManager LoadSysBigramDict #2
+20230917041647 [765,765] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917041647 [765,765] SysDict Load #4
+20230917041647 [765,765] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917041647 [765,765] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917041648 [765,765] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917041648 [765,765] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917041648 [765,765] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917041648 [765,765] SysDict ReadUuidAndStroke2Offset #3
+20230917041648 [765,765] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917041648 [765,765] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917041648 [765,765] StoreBigramSerData #1
+20230917041648 [765,765] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917041648 [765,765] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917041648 [765,765] OnlineMakeBigramSerData #4
+20230917041648 [765,765] DictManager LoadSysBigramDict #2
+20230917041648 [765,765] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917041648 [765,765] SysDict ReadUuidAndStroke2Offset #3
+20230917041648 [765,765] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917041648 [765,765] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917041648 [765,765] StoreBigramSerData #1
+20230917041648 [765,765] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917041648 [765,765] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917041648 [765,765] OnlineMakeBigramSerData #4
+20230917041648 [765,765] DictManager LoadSysBigramDict #2
+20230917041648 [765,765] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917041648 [765,765] SysDict ReadUuidAndStroke2Offset #3
+20230917041648 [765,765] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917041648 [765,765] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917041648 [765,765] StoreBigramSerData #1
+20230917041648 [765,765] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917041648 [765,765] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917041648 [765,765] OnlineMakeBigramSerData #4
+20230917041648 [765,765] DictManager LoadSysBigramDict #2
+20230917043456 [739,739] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917043456 [739,739] SysDict Load #4
+20230917043456 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917043456 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917043457 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_gd_old_sys_serdata.bin.630211129]
+20230917043457 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917043457 [739,739] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917043457 [739,739] SysDict ReadUuidAndStroke2Offset #3
+20230917043457 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917043457 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917043457 [739,739] StoreBigramSerData #1
+20230917043457 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917043457 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917043457 [739,739] OnlineMakeBigramSerData #4
+20230917043457 [739,739] DictManager LoadSysBigramDict #2
+20230917043457 [739,739] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917043457 [739,739] SysDict ReadUuidAndStroke2Offset #3
+20230917043457 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917043457 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917043457 [739,739] StoreBigramSerData #1
+20230917043457 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917043457 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917043457 [739,739] OnlineMakeBigramSerData #4
+20230917043457 [739,739] DictManager LoadSysBigramDict #2
+20230917043457 [739,739] MemProvider LoadDictOptimize :[/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917043457 [739,739] SysDict ReadUuidAndStroke2Offset #3
+20230917043457 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917043457 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917043457 [739,739] StoreBigramSerData #1
+20230917043457 [739,739] NewDict LogForFileOpenFailed #2:[0,0,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/sgim_bigram_serdata.bin.630211129]
+20230917043457 [739,739] NewDict LogForFileOpenFailed #3:[1,1,0,/opt/sogoupinyin/files/share/shell/dict//PCPYDict/]
+20230917043457 [739,739] OnlineMakeBigramSerData #4
+20230917043457 [739,739] DictManager LoadSysBigramDict #2
