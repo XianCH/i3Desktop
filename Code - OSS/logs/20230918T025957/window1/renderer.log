@@ -1,0 +1,7 @@
+2023-09-17 19:00:01.883 [info] [perf] Render performance baseline is 23ms
+2023-09-17 19:01:07.408 [error] semantictokens are disabled: Error: semantictokens are disabled
+	at handleResponse (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:2126:40)
+	at handleMessage (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1936:11)
+	at processMessageQueue (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1951:13)
+	at Immediate.<anonymous> (/home/x14n/.vscode-oss/extensions/golang.go-0.39.1-universal/dist/goMain.js:1927:11)
+	at process.processImmediate (node:internal/timers:476:21)

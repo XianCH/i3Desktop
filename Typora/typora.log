@@ -543,3 +543,391 @@ INFO 9/17/2023, 9:56:19 PM  ----------------before-quit-----------------
 INFO 9/17/2023, 9:56:19 PM  ------------------will-quit------------------
 INFO 9/17/2023, 9:56:19 PM  -----------------quit------------------
 INFO 9/17/2023, 9:56:19 PM  closeLogging
+INFO 9/18/2023, 6:46:23 AM  launch with argv [/usr/share/typora/Typora]
+INFO 9/18/2023, 6:46:23 AM  start LM in devVersion=false
+INFO 9/18/2023, 6:46:23 AM  [Raven] instanceKey = e0b72210-da1c-47cb-b8b2-970aa0c3d66a
+INFO 9/18/2023, 6:46:23 AM  [watch L]
+INFO 9/18/2023, 6:46:23 AM  ls put SLicense
+INFO 9/18/2023, 6:46:23 AM  [L] installDate is 9/15/2023, trail remains: 12 days
+INFO 9/18/2023, 6:46:23 AM  [watch L] hasL: false
+INFO 9/18/2023, 6:46:23 AM  ------------------start------------------
+INFO 9/18/2023, 6:46:23 AM  typora version: 1.7.4
+INFO 9/18/2023, 6:46:23 AM  undefined
+INFO 9/18/2023, 6:46:23 AM  updateTheme
+user-dict.json not found
+INFO 9/18/2023, 6:46:23 AM  [Raven] userId = 1c6a216a-f886-44e4-8639-a483f7740f94
+INFO 9/18/2023, 6:46:23 AM  [focus] 1
+INFO 9/18/2023, 6:46:23 AM  synced recovery
+INFO 9/18/2023, 6:46:23 AM  handle document.loadData
+INFO 9/18/2023, 6:46:23 AM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 9/18/2023, 6:46:23 AM  [RenderProcess 1][Log] reset NodeMap
+INFO 9/18/2023, 6:46:23 AM  synced recovery
+INFO 9/18/2023, 6:46:23 AM  [RenderProcess 1][Log] onBecomeActive
+INFO 9/18/2023, 6:46:23 AM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 9/18/2023, 6:46:25 AM  [blur] 1
+INFO 9/18/2023, 6:46:25 AM  [win] blur
+INFO 9/18/2023, 6:46:31 AM  [focus] 1
+INFO 9/18/2023, 6:46:38 AM  [blur] 1
+INFO 9/18/2023, 6:46:38 AM  [win] blur
+INFO 9/18/2023, 6:46:55 AM  [focus] 1
+INFO 9/18/2023, 6:46:55 AM  addRecentDocument
+INFO 9/18/2023, 6:46:55 AM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 9/18/2023, 6:46:55 AM  [RenderProcess 1][Log] reset NodeMap
+INFO 9/18/2023, 6:46:55 AM  [RenderProcess 1][Log] readContentFrom /home/x14n/Documents/markdown/i3wm archlinux.md
+INFO 9/18/2023, 6:46:55 AM  synced recovery
+INFO 9/18/2023, 6:47:05 AM  [blur] 1
+INFO 9/18/2023, 6:47:05 AM  [win] blur
+INFO 9/18/2023, 6:47:05 AM  [focus] 1
+INFO 9/18/2023, 6:47:10 AM  synced recovery
+INFO 9/18/2023, 6:47:15 AM  synced recovery
+INFO 9/18/2023, 6:47:16 AM  synced recovery
+INFO 9/18/2023, 6:47:17 AM  synced recovery
+INFO 9/18/2023, 6:47:20 AM  synced recovery
+INFO 9/18/2023, 6:47:22 AM  synced recovery
+INFO 9/18/2023, 6:47:24 AM  synced recovery
+INFO 9/18/2023, 6:47:26 AM  synced recovery
+INFO 9/18/2023, 6:47:35 AM  synced recovery
+INFO 9/18/2023, 6:47:39 AM  synced recovery
+INFO 9/18/2023, 6:47:41 AM  synced recovery
+INFO 9/18/2023, 6:47:44 AM  synced recovery
+INFO 9/18/2023, 6:47:45 AM  synced recovery
+INFO 9/18/2023, 6:47:46 AM  [blur] 1
+INFO 9/18/2023, 6:47:46 AM  [win] blur
+INFO 9/18/2023, 6:48:23 AM  [focus] 1
+INFO 9/18/2023, 6:48:25 AM  [blur] 1
+INFO 9/18/2023, 6:48:25 AM  [win] blur
+INFO 9/18/2023, 6:49:04 AM  [focus] 1
+INFO 9/18/2023, 6:49:05 AM  [blur] 1
+INFO 9/18/2023, 6:49:05 AM  [win] blur
+INFO 9/18/2023, 6:51:20 AM  [focus] 1
+INFO 9/18/2023, 6:51:20 AM  [blur] 1
+INFO 9/18/2023, 6:51:20 AM  [win] blur
+INFO 9/18/2023, 6:51:21 AM  [focus] 1
+INFO 9/18/2023, 6:51:55 AM  [blur] 1
+INFO 9/18/2023, 6:51:55 AM  [win] blur
+INFO 9/18/2023, 6:54:39 AM  [focus] 1
+INFO 9/18/2023, 6:54:40 AM  [blur] 1
+INFO 9/18/2023, 6:54:40 AM  [win] blur
+INFO 9/18/2023, 6:54:43 AM  [focus] 1
+INFO 9/18/2023, 6:54:43 AM  [blur] 1
+INFO 9/18/2023, 6:54:43 AM  [win] blur
+INFO 9/18/2023, 6:54:46 AM  [focus] 1
+INFO 9/18/2023, 6:54:46 AM  [blur] 1
+INFO 9/18/2023, 6:54:46 AM  [win] blur
+INFO 9/18/2023, 6:55:42 AM  [focus] 1
+INFO 9/18/2023, 6:55:42 AM  [blur] 1
+INFO 9/18/2023, 6:55:42 AM  [win] blur
+INFO 9/18/2023, 6:55:44 AM  [focus] 1
+INFO 9/18/2023, 6:55:45 AM  [blur] 1
+INFO 9/18/2023, 6:55:45 AM  [win] blur
+INFO 9/18/2023, 6:55:55 AM  [focus] 1
+INFO 9/18/2023, 6:55:56 AM  [blur] 1
+INFO 9/18/2023, 6:55:56 AM  [win] blur
+INFO 9/18/2023, 6:58:24 AM  [focus] 1
+INFO 9/18/2023, 6:58:24 AM  [blur] 1
+INFO 9/18/2023, 6:58:24 AM  [win] blur
+INFO 9/18/2023, 6:59:36 AM  [focus] 1
+INFO 9/18/2023, 6:59:36 AM  [blur] 1
+INFO 9/18/2023, 6:59:36 AM  [win] blur
+INFO 9/18/2023, 7:00:36 AM  [focus] 1
+INFO 9/18/2023, 7:00:37 AM  [blur] 1
+INFO 9/18/2023, 7:00:37 AM  [win] blur
+INFO 9/18/2023, 7:04:09 AM  [focus] 1
+INFO 9/18/2023, 7:04:10 AM  [blur] 1
+INFO 9/18/2023, 7:04:10 AM  [win] blur
+INFO 9/18/2023, 7:07:14 AM  [focus] 1
+INFO 9/18/2023, 7:07:15 AM  [blur] 1
+INFO 9/18/2023, 7:07:15 AM  [win] blur
+INFO 9/18/2023, 7:08:00 AM  [focus] 1
+INFO 9/18/2023, 7:08:02 AM  synced recovery
+INFO 9/18/2023, 7:08:04 AM  [blur] 1
+INFO 9/18/2023, 7:08:04 AM  [win] blur
+INFO 9/18/2023, 7:09:25 AM  [focus] 1
+INFO 9/18/2023, 7:09:30 AM  [blur] 1
+INFO 9/18/2023, 7:09:30 AM  [win] blur
+INFO 9/18/2023, 7:09:39 AM  [focus] 1
+INFO 9/18/2023, 7:09:39 AM  [blur] 1
+INFO 9/18/2023, 7:09:39 AM  [win] blur
+INFO 9/18/2023, 7:10:32 AM  [focus] 1
+INFO 9/18/2023, 7:10:35 AM  [blur] 1
+INFO 9/18/2023, 7:10:35 AM  [win] blur
+INFO 9/18/2023, 7:13:59 AM  [focus] 1
+INFO 9/18/2023, 7:14:02 AM  [blur] 1
+INFO 9/18/2023, 7:14:02 AM  [win] blur
+INFO 9/18/2023, 7:16:17 AM  [focus] 1
+INFO 9/18/2023, 7:16:18 AM  [blur] 1
+INFO 9/18/2023, 7:16:18 AM  [win] blur
+INFO 9/18/2023, 7:16:52 AM  [focus] 1
+INFO 9/18/2023, 7:16:53 AM  [blur] 1
+INFO 9/18/2023, 7:16:53 AM  [win] blur
+INFO 9/18/2023, 7:18:03 AM  [focus] 1
+INFO 9/18/2023, 7:18:06 AM  [blur] 1
+INFO 9/18/2023, 7:18:06 AM  [win] blur
+INFO 9/18/2023, 7:18:08 AM  [focus] 1
+INFO 9/18/2023, 7:18:10 AM  [blur] 1
+INFO 9/18/2023, 7:18:10 AM  [win] blur
+INFO 9/18/2023, 7:25:19 AM  [focus] 1
+INFO 9/18/2023, 7:25:20 AM  [blur] 1
+INFO 9/18/2023, 7:25:20 AM  [win] blur
+INFO 9/18/2023, 7:26:04 AM  [focus] 1
+INFO 9/18/2023, 7:26:05 AM  [blur] 1
+INFO 9/18/2023, 7:26:05 AM  [win] blur
+INFO 9/18/2023, 7:26:05 AM  [focus] 1
+INFO 9/18/2023, 7:26:08 AM  [blur] 1
+INFO 9/18/2023, 7:26:08 AM  [win] blur
+INFO 9/18/2023, 7:31:07 AM  [focus] 1
+INFO 9/18/2023, 7:31:08 AM  [blur] 1
+INFO 9/18/2023, 7:31:08 AM  [win] blur
+INFO 9/18/2023, 7:31:20 AM  [focus] 1
+INFO 9/18/2023, 7:31:24 AM  [blur] 1
+INFO 9/18/2023, 7:31:24 AM  [win] blur
+INFO 9/18/2023, 7:34:56 AM  synced recovery
+INFO 9/18/2023, 7:34:56 AM  ----------------before-quit-----------------
+INFO 9/19/2023, 5:01:55 AM  launch with argv [/usr/share/typora/Typora]
+INFO 9/19/2023, 5:01:55 AM  start LM in devVersion=false
+INFO 9/19/2023, 5:01:55 AM  [Raven] instanceKey = e3a6e275-026e-41d2-9129-6ddbe8a0f080
+INFO 9/19/2023, 5:01:55 AM  [watch L]
+INFO 9/19/2023, 5:01:55 AM  ls put SLicense
+INFO 9/19/2023, 5:01:55 AM  [L] installDate is 9/15/2023, trail remains: 11 days
+INFO 9/19/2023, 5:01:55 AM  [watch L] hasL: false
+INFO 9/19/2023, 5:01:55 AM  ------------------start------------------
+INFO 9/19/2023, 5:01:55 AM  typora version: 1.7.4
+INFO 9/19/2023, 5:01:55 AM  undefined
+INFO 9/19/2023, 5:01:55 AM  updateTheme
+user-dict.json not found
+INFO 9/19/2023, 5:01:55 AM  launch from abnormal quit
+INFO 9/19/2023, 5:01:55 AM  recoverWindow {"id":1,"path":"/home/x14n/Documents/markdown/i3wm archlinux.md","untitledId":1694990815489,"type":"","useCRLF":true,"hasUnsaved":true,"scrollPos":13835.7333984375,"syncDate":1694992082613,"mountFolder":"/home/x14n/Documents/markdown"}
+INFO 9/19/2023, 5:01:55 AM  [1] recover from content 8639 "# arch安装以及i3wm配...
+
+## mpd音乐播放器"
+INFO 9/19/2023, 5:01:55 AM  addRecentDocument
+INFO 9/19/2023, 5:01:55 AM  [Raven] userId = 1c6a216a-f886-44e4-8639-a483f7740f94
+INFO 9/19/2023, 5:01:55 AM  [focus] 2
+INFO 9/19/2023, 5:01:55 AM  synced recovery
+INFO 9/19/2023, 5:01:55 AM  [blur] 2
+INFO 9/19/2023, 5:01:55 AM  [win] blur
+INFO 9/19/2023, 5:01:55 AM  [focus] 1
+INFO 9/19/2023, 5:01:55 AM  handle document.loadData
+INFO 9/19/2023, 5:01:55 AM  load from recover content length: 8639
+INFO 9/19/2023, 5:01:55 AM  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 9/19/2023, 5:01:55 AM  [RenderProcess 2][Log] reset NodeMap
+INFO 9/19/2023, 5:01:55 AM  [RenderProcess 2][Log] recoverFromBackup
+INFO 9/19/2023, 5:01:56 AM  [blur] 1
+INFO 9/19/2023, 5:01:56 AM  [focus] 2
+INFO 9/19/2023, 5:01:56 AM  synced recovery
+INFO 9/19/2023, 5:01:56 AM  [RenderProcess 2][Log] onBecomeActive
+INFO 9/19/2023, 5:01:56 AM  [RenderProcess 2][Log] File.activeWindow = true
+INFO 9/19/2023, 5:01:56 AM  [blur] 2
+INFO 9/19/2023, 5:01:56 AM  [win] blur
+INFO 9/19/2023, 5:01:56 AM  [focus] 1
+INFO 9/19/2023, 5:01:56 AM  [blur] 1
+INFO 9/19/2023, 5:01:56 AM  [focus] 1
+INFO 9/19/2023, 5:01:57 AM  [focus] 2
+INFO 9/19/2023, 5:01:57 AM  [blur] 2
+INFO 9/19/2023, 5:01:57 AM  [win] blur
+INFO 9/19/2023, 5:01:57 AM  [focus] 2
+INFO 9/19/2023, 5:02:05 AM  [blur] 2
+INFO 9/19/2023, 5:02:05 AM  [win] blur
+INFO 9/19/2023, 5:02:08 AM  [focus] 2
+INFO 9/19/2023, 5:02:10 AM  synced recovery
+INFO 9/19/2023, 5:02:12 AM  [blur] 2
+INFO 9/19/2023, 5:02:12 AM  [win] blur
+INFO 9/19/2023, 5:02:12 AM  synced recovery
+INFO 9/19/2023, 5:03:01 AM  [focus] 2
+INFO 9/19/2023, 5:03:02 AM  [blur] 2
+INFO 9/19/2023, 5:03:02 AM  [win] blur
+INFO 9/19/2023, 5:04:05 AM  [focus] 2
+INFO 9/19/2023, 5:04:07 AM  [blur] 2
+INFO 9/19/2023, 5:04:07 AM  [win] blur
+INFO 9/19/2023, 5:05:22 AM  [focus] 2
+INFO 9/19/2023, 5:05:24 AM  [blur] 2
+INFO 9/19/2023, 5:05:24 AM  [win] blur
+INFO 9/19/2023, 5:05:40 AM  [focus] 2
+INFO 9/19/2023, 5:05:41 AM  [blur] 2
+INFO 9/19/2023, 5:05:41 AM  [win] blur
+INFO 9/19/2023, 5:08:44 AM  [focus] 2
+INFO 9/19/2023, 5:08:44 AM  [blur] 2
+INFO 9/19/2023, 5:08:44 AM  [win] blur
+INFO 9/19/2023, 5:10:41 AM  [focus] 2
+INFO 9/19/2023, 5:10:41 AM  [blur] 2
+INFO 9/19/2023, 5:10:41 AM  [win] blur
+INFO 9/19/2023, 5:11:16 AM  [focus] 2
+INFO 9/19/2023, 5:11:22 AM  [blur] 2
+INFO 9/19/2023, 5:11:22 AM  [win] blur
+INFO 9/19/2023, 5:11:30 AM  [focus] 2
+INFO 9/19/2023, 5:11:32 AM  [blur] 2
+INFO 9/19/2023, 5:11:32 AM  [win] blur
+INFO 9/19/2023, 5:12:34 AM  [focus] 2
+INFO 9/19/2023, 5:12:44 AM  synced recovery
+INFO 9/19/2023, 5:12:46 AM  synced recovery
+INFO 9/19/2023, 5:12:49 AM  synced recovery
+INFO 9/19/2023, 5:12:51 AM  synced recovery
+INFO 9/19/2023, 5:12:56 AM  synced recovery
+INFO 9/19/2023, 5:12:57 AM  synced recovery
+INFO 9/19/2023, 5:13:01 AM  synced recovery
+INFO 9/19/2023, 5:13:02 AM  synced recovery
+INFO 9/19/2023, 5:13:09 AM  synced recovery
+INFO 9/19/2023, 5:13:10 AM  synced recovery
+INFO 9/19/2023, 5:13:14 AM  synced recovery
+INFO 9/19/2023, 5:13:16 AM  synced recovery
+INFO 9/19/2023, 5:13:18 AM  synced recovery
+INFO 9/19/2023, 5:13:20 AM  synced recovery
+INFO 9/19/2023, 5:13:21 AM  synced recovery
+INFO 9/19/2023, 5:13:24 AM  synced recovery
+INFO 9/19/2023, 5:13:25 AM  synced recovery
+INFO 9/19/2023, 5:13:27 AM  synced recovery
+INFO 9/19/2023, 5:13:33 AM  [blur] 2
+INFO 9/19/2023, 5:13:33 AM  [win] blur
+INFO 9/19/2023, 5:13:35 AM  [focus] 2
+INFO 9/19/2023, 5:13:35 AM  [blur] 2
+INFO 9/19/2023, 5:13:35 AM  [win] blur
+INFO 9/19/2023, 5:13:44 AM  [focus] 2
+INFO 9/19/2023, 5:13:44 AM  [blur] 2
+INFO 9/19/2023, 5:13:44 AM  [win] blur
+INFO 9/19/2023, 5:13:52 AM  [focus] 2
+INFO 9/19/2023, 5:14:03 AM  synced recovery
+INFO 9/19/2023, 5:14:06 AM  synced recovery
+INFO 9/19/2023, 5:14:08 AM  synced recovery
+INFO 9/19/2023, 5:14:10 AM  synced recovery
+INFO 9/19/2023, 5:14:14 AM  synced recovery
+INFO 9/19/2023, 5:14:20 AM  synced recovery
+INFO 9/19/2023, 5:14:23 AM  synced recovery
+INFO 9/19/2023, 5:14:24 AM  synced recovery
+INFO 9/19/2023, 5:14:27 AM  synced recovery
+INFO 9/19/2023, 5:14:31 AM  synced recovery
+INFO 9/19/2023, 5:14:36 AM  synced recovery
+INFO 9/19/2023, 5:14:38 AM  synced recovery
+INFO 9/19/2023, 5:14:42 AM  synced recovery
+INFO 9/19/2023, 5:14:43 AM  synced recovery
+INFO 9/19/2023, 5:14:47 AM  synced recovery
+INFO 9/19/2023, 5:14:49 AM  synced recovery
+INFO 9/19/2023, 5:14:56 AM  synced recovery
+INFO 9/19/2023, 5:15:00 AM  [blur] 2
+INFO 9/19/2023, 5:15:00 AM  [win] blur
+INFO 9/19/2023, 5:15:04 AM  [focus] 2
+INFO 9/19/2023, 5:15:07 AM  synced recovery
+INFO 9/19/2023, 5:15:17 AM  synced recovery
+INFO 9/19/2023, 5:15:20 AM  synced recovery
+INFO 9/19/2023, 5:15:24 AM  synced recovery
+INFO 9/19/2023, 5:15:29 AM  synced recovery
+INFO 9/19/2023, 5:15:31 AM  synced recovery
+INFO 9/19/2023, 5:15:43 AM  synced recovery
+INFO 9/19/2023, 5:15:47 AM  synced recovery
+INFO 9/19/2023, 5:15:52 AM  synced recovery
+INFO 9/19/2023, 5:15:55 AM  synced recovery
+INFO 9/19/2023, 5:16:01 AM  synced recovery
+INFO 9/19/2023, 5:16:03 AM  synced recovery
+INFO 9/19/2023, 5:16:05 AM  [blur] 2
+INFO 9/19/2023, 5:16:05 AM  [win] blur
+INFO 9/19/2023, 5:16:28 AM  [focus] 2
+INFO 9/19/2023, 5:16:32 AM  synced recovery
+INFO 9/19/2023, 5:16:48 AM  [blur] 2
+INFO 9/19/2023, 5:16:48 AM  [win] blur
+INFO 9/19/2023, 5:18:20 AM  [focus] 2
+INFO 9/19/2023, 5:18:20 AM  [blur] 2
+INFO 9/19/2023, 5:18:20 AM  [win] blur
+INFO 9/19/2023, 5:18:20 AM  [focus] 2
+INFO 9/19/2023, 5:18:20 AM  [blur] 2
+INFO 9/19/2023, 5:18:20 AM  [win] blur
+INFO 9/19/2023, 5:19:25 AM  [focus] 2
+INFO 9/19/2023, 5:19:25 AM  [blur] 2
+INFO 9/19/2023, 5:19:25 AM  [win] blur
+INFO 9/19/2023, 5:19:25 AM  [focus] 2
+INFO 9/19/2023, 5:19:25 AM  [blur] 2
+INFO 9/19/2023, 5:19:25 AM  [win] blur
+INFO 9/19/2023, 5:19:46 AM  [focus] 2
+INFO 9/19/2023, 5:19:47 AM  [blur] 2
+INFO 9/19/2023, 5:19:47 AM  [win] blur
+INFO 9/19/2023, 5:25:39 AM  [focus] 2
+INFO 9/19/2023, 5:25:40 AM  [blur] 2
+INFO 9/19/2023, 5:25:40 AM  [win] blur
+INFO 9/19/2023, 5:25:40 AM  [focus] 2
+INFO 9/19/2023, 5:25:41 AM  [blur] 2
+INFO 9/19/2023, 5:25:41 AM  [win] blur
+INFO 9/19/2023, 5:25:43 AM  [focus] 2
+INFO 9/19/2023, 5:25:44 AM  [blur] 2
+INFO 9/19/2023, 5:25:44 AM  [win] blur
+INFO 9/19/2023, 5:28:35 AM  [focus] 2
+INFO 9/19/2023, 5:28:37 AM  [blur] 2
+INFO 9/19/2023, 5:28:37 AM  [win] blur
+INFO 9/19/2023, 5:28:39 AM  [focus] 2
+INFO 9/19/2023, 5:28:39 AM  [blur] 2
+INFO 9/19/2023, 5:28:39 AM  [win] blur
+INFO 9/19/2023, 5:28:39 AM  [focus] 2
+INFO 9/19/2023, 5:28:39 AM  [blur] 2
+INFO 9/19/2023, 5:28:39 AM  [win] blur
+INFO 9/19/2023, 5:28:39 AM  [focus] 2
+INFO 9/19/2023, 5:28:39 AM  [blur] 2
+INFO 9/19/2023, 5:28:39 AM  [win] blur
+INFO 9/19/2023, 5:29:11 AM  [focus] 2
+INFO 9/19/2023, 5:29:12 AM  [blur] 2
+INFO 9/19/2023, 5:29:12 AM  [win] blur
+INFO 9/19/2023, 5:29:29 AM  [focus] 2
+INFO 9/19/2023, 5:29:29 AM  [blur] 2
+INFO 9/19/2023, 5:29:29 AM  [win] blur
+INFO 9/19/2023, 5:29:31 AM  [focus] 2
+INFO 9/19/2023, 5:29:31 AM  [blur] 2
+INFO 9/19/2023, 5:29:31 AM  [win] blur
+INFO 9/19/2023, 5:29:32 AM  [focus] 2
+INFO 9/19/2023, 5:29:33 AM  [blur] 2
+INFO 9/19/2023, 5:29:33 AM  [win] blur
+INFO 9/19/2023, 5:29:51 AM  [focus] 2
+INFO 9/19/2023, 5:29:51 AM  [blur] 2
+INFO 9/19/2023, 5:29:51 AM  [win] blur
+INFO 9/19/2023, 5:30:41 AM  [focus] 2
+INFO 9/19/2023, 5:30:41 AM  [blur] 2
+INFO 9/19/2023, 5:30:41 AM  [win] blur
+INFO 9/19/2023, 5:30:42 AM  [focus] 2
+INFO 9/19/2023, 5:30:42 AM  [blur] 2
+INFO 9/19/2023, 5:30:42 AM  [win] blur
+INFO 9/19/2023, 5:30:51 AM  [focus] 2
+INFO 9/19/2023, 5:30:52 AM  [blur] 2
+INFO 9/19/2023, 5:30:52 AM  [win] blur
+INFO 9/19/2023, 5:31:27 AM  [focus] 2
+INFO 9/19/2023, 5:31:27 AM  [blur] 2
+INFO 9/19/2023, 5:31:27 AM  [win] blur
+INFO 9/19/2023, 5:31:41 AM  [focus] 2
+INFO 9/19/2023, 5:31:41 AM  [blur] 2
+INFO 9/19/2023, 5:31:41 AM  [win] blur
+INFO 9/19/2023, 5:33:12 AM  [focus] 2
+INFO 9/19/2023, 5:33:12 AM  [blur] 2
+INFO 9/19/2023, 5:33:12 AM  [win] blur
+INFO 9/19/2023, 5:33:12 AM  [focus] 2
+INFO 9/19/2023, 5:33:12 AM  [blur] 2
+INFO 9/19/2023, 5:33:12 AM  [win] blur
+INFO 9/19/2023, 5:33:12 AM  [focus] 2
+INFO 9/19/2023, 5:33:14 AM  [blur] 2
+INFO 9/19/2023, 5:33:14 AM  [win] blur
+INFO 9/19/2023, 5:38:00 AM  [focus] 2
+INFO 9/19/2023, 5:38:04 AM  synced recovery
+INFO 9/19/2023, 5:38:12 AM  synced recovery
+INFO 9/19/2023, 5:38:15 AM  synced recovery
+INFO 9/19/2023, 5:38:18 AM  synced recovery
+INFO 9/19/2023, 5:38:25 AM  synced recovery
+INFO 9/19/2023, 5:38:29 AM  synced recovery
+INFO 9/19/2023, 5:38:46 AM  synced recovery
+INFO 9/19/2023, 5:38:51 AM  synced recovery
+INFO 9/19/2023, 5:38:53 AM  synced recovery
+INFO 9/19/2023, 5:39:00 AM  synced recovery
+INFO 9/19/2023, 5:39:00 AM  [blur] 2
+INFO 9/19/2023, 5:39:00 AM  [win] blur
+INFO 9/19/2023, 5:39:25 AM  [focus] 2
+INFO 9/19/2023, 5:39:28 AM  synced recovery
+INFO 9/19/2023, 5:39:30 AM  synced recovery
+INFO 9/19/2023, 5:39:32 AM  synced recovery
+INFO 9/19/2023, 5:39:35 AM  synced recovery
+INFO 9/19/2023, 5:39:42 AM  synced recovery
+INFO 9/19/2023, 5:39:45 AM  [blur] 2
+INFO 9/19/2023, 5:39:45 AM  [win] blur
+INFO 9/19/2023, 5:39:46 AM  [focus] 2
+INFO 9/19/2023, 5:39:57 AM  [blur] 2
+INFO 9/19/2023, 5:39:57 AM  [win] blur
+INFO 9/19/2023, 5:40:25 AM  [focus] 2
+INFO 9/19/2023, 5:40:25 AM  [blur] 2
+INFO 9/19/2023, 5:40:25 AM  [win] blur
+INFO 9/19/2023, 5:40:25 AM  [focus] 2
+INFO 9/19/2023, 5:40:25 AM  [blur] 2
+INFO 9/19/2023, 5:40:25 AM  [win] blur
+INFO 9/19/2023, 5:40:25 AM  [focus] 2
+INFO 9/19/2023, 5:40:31 AM  [blur] 2
+INFO 9/19/2023, 5:40:31 AM  [win] blur

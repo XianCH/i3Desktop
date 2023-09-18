@@ -706,8 +706,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     }
                 ]
             },
@@ -715,8 +714,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1605,7 +1603,7 @@
     "theme": "vs-dark",
     "themeBackground": "#1f1f1f",
     "windowSplash": {
-        "zoomLevel": 3,
+        "zoomLevel": 1,
         "baseTheme": "vs-dark",
         "colorInfo": {
             "foreground": "#cccccc",
@@ -1633,10 +1631,10 @@
             "backupPath": "/home/x14n/.config/Code - OSS/Backups/194b7d4827ab933d2f87eb2e1eac1b04",
             "uiState": {
                 "mode": 1,
-                "x": 1445,
-                "y": 62,
-                "width": 1415,
-                "height": 1718
+                "x": 12,
+                "y": 12,
+                "width": 1512,
+                "height": 915
             }
         },
         "openedWindows": []

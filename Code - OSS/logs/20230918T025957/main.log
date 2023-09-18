@@ -1,0 +1,6 @@
+2023-09-17 18:59:57.918 [info] update#setState disabled
+2023-09-17 18:59:57.921 [info] update#ctor - updates are disabled as there is no update URL
+2023-09-17 19:02:53.915 [error] ptyHost terminated unexpectedly with code 0
+2023-09-17 19:02:53.928 [info] Extension host with pid 17171 exited with code: 15, signal: unknown.
+2023-09-17 19:02:53.929 [error] [UtilityProcess id: 1, type: extensionHost, pid: 17171]: crashed with code 15 and reason 'killed'
+2023-09-17 19:02:53.932 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

@@ -1,0 +1,46 @@
+[Info  - 2:59:59 AM] 2023/09/17 18:59:59 go info for /home/x14n/code/goproj
+(go dir /home/x14n/code/goproj/github.com/x14n/goStu)
+(go version go version go1.21.1 linux/amd64)
+(valid build configuration = true)
+(build flags: [])
+(selected go env: [GO111MODULE=, GOCACHE=/home/x14n/.cache/go-build, GOFLAGS=, GOMODCACHE=/home/x14n/go/pkg/mod, GOPATH=/home/x14n/go, GOPRIVATE=, GOROOT=/usr/lib/go, GOWORK=])
+
+
+[Info  - 3:01:07 AM] 2023/09/17 19:01:07 go/packages.Load #1
+	snapshot=0
+	directory=file:///home/x14n/code/goproj
+	query=[/home/x14n/code/goproj/github.com/x14n/goStu/... builtin]
+	packages=30
+
+[Info  - 3:01:07 AM] 2023/09/17 19:01:07 go/packages.Load #1: updating metadata for 162 packages
+
+[Error - 3:01:07 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 3:01:07 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 3:01:07 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 3:01:08 AM] 2023/09/17 19:01:08 tidy: diagnosing file:///home/x14n/code/goproj/github.com/x14n/goStu/go.mod: err: exit status 1: stderr: go: downloading github.com/gin-gonic/gin v1.9.1
+go: downloading github.com/gorilla/websocket v1.5.0
+go: downloading github.com/jmoiron/sqlx v1.3.5
+go: downloading github.com/gomodule/redigo v1.8.9
+go: downloading github.com/go-sql-driver/mysql v1.7.1
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/go-sql-driver/mysql: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/mysql imports
+	github.com/jmoiron/sqlx: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/dataOperation/redis imports
+	github.com/gomodule/redigo/redis: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/freamworkStu/gin imports
+	github.com/gin-gonic/gin: module lookup disabled by GOPROXY=off
+go: github.com/x14n/goStu/web/websocket imports
+	github.com/gorilla/websocket: module lookup disabled by GOPROXY=off
+
+
+[Info  - 3:01:37 AM] 2023/09/17 19:01:37 background imports cache refresh starting
+
+[Info  - 3:01:37 AM] 2023/09/17 19:01:37 background refresh finished after 49.830488ms
+

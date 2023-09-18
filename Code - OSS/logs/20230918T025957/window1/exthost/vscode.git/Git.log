@@ -1,0 +1,38 @@
+2023-09-17 18:59:59.815 [info] Log level: Info
+2023-09-17 18:59:59.815 [info] Validating found git in: "git"
+2023-09-17 18:59:59.815 [info] Using git "2.42.0" from "git"
+2023-09-17 18:59:59.815 [info] > git rev-parse --show-toplevel [5ms]
+2023-09-17 18:59:59.815 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-17 18:59:59.815 [info] > git rev-parse --show-toplevel [7ms]
+2023-09-17 18:59:59.822 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-09-17 18:59:59.832 [info] Open repository: /home/x14n/code/goproj/github.com/x14n/goStu
+2023-09-17 18:59:59.845 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-17 18:59:59.845 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-17 18:59:59.846 [info] > git config --get commit.template [7ms]
+2023-09-17 18:59:59.854 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-09-17 18:59:59.862 [info] > git status -z -uall [2ms]
+2023-09-17 18:59:59.876 [info] > git config --get commit.template [1ms]
+2023-09-17 18:59:59.883 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-09-17 18:59:59.902 [info] > git status -z -uall [13ms]
+2023-09-17 18:59:59.936 [info] > git rev-parse --show-toplevel [35ms]
+2023-09-17 18:59:59.936 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-17 19:00:00.155 [info] > git show --textconv :basic/array/array.go [7ms]
+2023-09-17 19:00:00.156 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/basic/array/array.go [2ms]
+2023-09-17 19:00:00.163 [info] > git cat-file -s dca914dafba3f39682a228412a2ea227d27a9317 [2ms]
+2023-09-17 19:00:00.360 [info] > git check-ignore -v -z --stdin [1ms]
+2023-09-17 19:00:01.567 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-17 19:00:01.567 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-17 19:00:01.779 [info] > git rev-parse --show-toplevel [0ms]
+2023-09-17 19:00:01.779 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-17 19:00:02.336 [info] > git check-ignore -v -z --stdin [1ms]
+2023-09-17 19:00:11.545 [info] > git show --textconv :basic/array/array_sumtest.go [6ms]
+2023-09-17 19:00:11.546 [info] > git ls-files --stage -- /home/x14n/code/goproj/github.com/x14n/goStu/basic/array/array_sumtest.go [1ms]
+2023-09-17 19:00:11.552 [info] > git cat-file -s 98da5c40531286ca9f6a662b7b70b6f523ff4ad1 [0ms]
+2023-09-17 19:00:15.257 [info] > git config --get commit.template [1ms]
+2023-09-17 19:00:15.266 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-09-17 19:00:15.277 [info] > git status -z -uall [3ms]

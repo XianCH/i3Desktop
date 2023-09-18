@@ -200,7 +200,7 @@ bindsym $mod+d exec --no-startup-id "rofi -modi drun,run -show drun"
 
 exec --no-startup-id picom -b --config ~/.config/picom/picom.conf
 
-exec --no-startup-id feh --bg-scale ~/Pictures/wallpaper/nord1.png
+exec --no-startup-id feh --bg-scale ~/Pictures/wallpaper/archlinux.png
 
 bindsym $mod+Ctrl+l exec --no-startup-id i3lock
 
@@ -208,5 +208,5 @@ for_window [class="^.*"] border pixel 0
 #new_window pixel 1
 
 exec_always --no-startup-id fcitx
-exec --no-startup-id ~/.config/polybar/launch.sh
+exec --no-startup-id ~/.config/polybar/colorblocks/launch.sh
 exec_always --no-startup-id numlockx on
